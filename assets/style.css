@@ -1,0 +1,12 @@
+.navbar {
+    background: linear-gradient(130deg, cornflowerblue 10%, navy 100%);
+    color: yellow;
+    height: 55px;
+}
+
+#search-button {
+    background-color: orange;
+    border-color: orange;
+
+}
+
